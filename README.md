@@ -3,7 +3,7 @@
 
 
 
-
+article explaining .at instead of using .loc: https://medium.com/codex/dont-use-loc-iloc-with-loops-in-python-instead-use-this-f9243289dde7
 
 .idxmax documentation: https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.idxmax.html
 
