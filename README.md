@@ -1,5 +1,6 @@
 # matplotlib-challenge
 
+#Forum to plot with DataFrame index: https://stackoverflow.com/questions/49834883/scatter-plot-form-dataframe-with-index-on-x-axis
 
 forum for plotting multiple data in boxplot: https://www.tutorialspoint.com/plot-multiple-boxplots-in-one-graph-in-pandas-or-matplotlib
 
